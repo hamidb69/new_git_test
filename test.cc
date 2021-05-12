@@ -5,6 +5,7 @@ int main ()
 {
     
     cout << "Git test"<<endl;
+    cout << "new changes";
     
     return 0;
 }
